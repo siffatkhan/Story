@@ -1,0 +1,6 @@
+secrets
+.DS_Store
+
+# this is the comment 
+# *.txt   these kind of wild card will ignore all text 
+# extension file during the commiting
